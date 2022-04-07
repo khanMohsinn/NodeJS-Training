@@ -6,14 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Video Streaming App</title>
     <style>
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
       body {
-        margin: 40px auto;
+        font-family: "Poppins", sans-serif;
+        margin: 11vh auto;
         max-width: 650px;
-        background-color: #444;
+        background: rgb(2, 0, 36);
+        background: linear-gradient(
+          90deg,
+          rgba(2, 0, 36, 1) 0%,
+          rgba(9, 9, 121, 1) 35%,
+          rgba(0, 212, 255, 1) 100%
+        );
+      }
+      h1 {
+        color: white;
+        text-align: center;
+        border: 4px solid white;
+        border-radius: 50px;
       }
     </style>
   </head>
   <body>
+    <div class="title">
+      <h1>Video streaming app using <span style="color: red">NodeJS</span></h1>
+    </div>
     <video id="videoPlayer" width="650" controls muted="muted" autoplay>
       <source src="/video" type="video/mp4" />
     </video>
