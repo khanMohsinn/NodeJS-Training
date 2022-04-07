@@ -1,2 +1,2 @@
-# fetch-botanic-npm-package
-A node js program which utilizes the botanic-zoo-api to fetch detailed information related to animals and plants.
+# A simple video streaming application
+A node js program which utilizes the fs module to stream a video on the local nodejs server.
