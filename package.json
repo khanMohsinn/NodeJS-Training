@@ -1,18 +1,16 @@
 {
-  "name": "node_training",
+  "name": "nodejs-training-api",
   "version": "1.0.0",
-  "description": "Node JS Training",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mohsin Khan",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "botanic-zoo-api": "^0.1.5",
-    "cric-live": "^1.0.19",
-    "express": "^4.17.3",
-    "nodemon": "^2.0.15"
+    "express": "^4.17.3"
   }
 }
