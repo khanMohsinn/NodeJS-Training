@@ -2,6 +2,7 @@ import cricLive from "cric-live";
 
 cricLive.getRecentMatches().then((currentMatches) => {
   console.log(currentMatches);
+
   /*
       [ 
           {
