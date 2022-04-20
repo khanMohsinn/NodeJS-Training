@@ -1,0 +1,36 @@
+2022-04-20 11:52:22 info: text info
+2022-04-20 11:52:22 warn: text warn
+2022-04-20 11:52:22 error: text error
+2022-04-20 11:52:55 info: text info
+2022-04-20 11:52:55 warn: text warn
+2022-04-20 11:52:55 error: text error
+2022-04-20 11:53:11 info: text info
+2022-04-20 11:53:11 warn: text warn
+2022-04-20 11:53:11 error: text error
+2022-04-20 11:53:19 info: text info
+2022-04-20 11:53:19 warn: text warn
+2022-04-20 11:53:19 error: text error
+2022-04-20 11:53:21 info: text info
+2022-04-20 11:53:21 warn: text warn
+2022-04-20 11:53:21 error: text error
+2022-04-20 11:53:42 info: text info
+2022-04-20 11:53:42 warn: text warn
+2022-04-20 11:53:42 error: text error
+2022-04-20 11:54:07 info: text info
+{"level":"info","message":"text info"}
+{"level":"warn","message":"text warn"}
+{"level":"error","message":"text error"}
+2022-04-20 11:54:07 warn: text warn
+2022-04-20 11:54:07 error: text error
+2022-04-20 11:54:12 info: text info
+2022-04-20 11:54:12 warn: text warn
+2022-04-20 11:54:12 error: text error
+2022-04-20 12:05:50 info: text info
+2022-04-20 12:05:50 warn: text warn
+2022-04-20 12:05:50 error: text error
+2022-04-20 12:05:51 info: text info
+2022-04-20 12:05:51 warn: text warn
+2022-04-20 12:05:51 error: text error
+2022-04-20 12:16:04 info: text info
+2022-04-20 12:16:04 warn: text warn
+2022-04-20 12:16:04 error: text error
